@@ -1,0 +1,119 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: CG.Blazor.Mvvm.ViewModels
+  name: CG.Blazor.Mvvm.ViewModels
+  href: api/CG.Blazor.Mvvm.ViewModels.html
+  commentId: N:CG.Blazor.Mvvm.ViewModels
+  fullName: CG.Blazor.Mvvm.ViewModels
+  nameWithType: CG.Blazor.Mvvm.ViewModels
+- uid: CG.Blazor.Mvvm.ViewModels.BlazorViewModelBase
+  name: BlazorViewModelBase
+  href: api/CG.Blazor.Mvvm.ViewModels.BlazorViewModelBase.html
+  commentId: T:CG.Blazor.Mvvm.ViewModels.BlazorViewModelBase
+  fullName: CG.Blazor.Mvvm.ViewModels.BlazorViewModelBase
+  nameWithType: BlazorViewModelBase
+- uid: CG.Blazor.Mvvm.ViewModels.BlazorViewModelBase.OnInitializedAsync
+  name: OnInitializedAsync()
+  href: api/CG.Blazor.Mvvm.ViewModels.BlazorViewModelBase.html#CG_Blazor_Mvvm_ViewModels_BlazorViewModelBase_OnInitializedAsync
+  commentId: M:CG.Blazor.Mvvm.ViewModels.BlazorViewModelBase.OnInitializedAsync
+  fullName: CG.Blazor.Mvvm.ViewModels.BlazorViewModelBase.OnInitializedAsync()
+  nameWithType: BlazorViewModelBase.OnInitializedAsync()
+- uid: CG.Blazor.Mvvm.ViewModels.BlazorViewModelBase.OnInitializedAsync*
+  name: OnInitializedAsync
+  href: api/CG.Blazor.Mvvm.ViewModels.BlazorViewModelBase.html#CG_Blazor_Mvvm_ViewModels_BlazorViewModelBase_OnInitializedAsync_
+  commentId: Overload:CG.Blazor.Mvvm.ViewModels.BlazorViewModelBase.OnInitializedAsync
+  isSpec: "True"
+  fullName: CG.Blazor.Mvvm.ViewModels.BlazorViewModelBase.OnInitializedAsync
+  nameWithType: BlazorViewModelBase.OnInitializedAsync
+- uid: CG.Blazor.Mvvm.Views
+  name: CG.Blazor.Mvvm.Views
+  href: api/CG.Blazor.Mvvm.Views.html
+  commentId: N:CG.Blazor.Mvvm.Views
+  fullName: CG.Blazor.Mvvm.Views
+  nameWithType: CG.Blazor.Mvvm.Views
+- uid: CG.Blazor.Mvvm.Views.BlazorViewBase`1
+  name: BlazorViewBase<T>
+  href: api/CG.Blazor.Mvvm.Views.BlazorViewBase-1.html
+  commentId: T:CG.Blazor.Mvvm.Views.BlazorViewBase`1
+  name.vb: BlazorViewBase(Of T)
+  fullName: CG.Blazor.Mvvm.Views.BlazorViewBase<T>
+  fullName.vb: CG.Blazor.Mvvm.Views.BlazorViewBase(Of T)
+  nameWithType: BlazorViewBase<T>
+  nameWithType.vb: BlazorViewBase(Of T)
+- uid: CG.Blazor.Mvvm.Views.BlazorViewBase`1.Dispose
+  name: Dispose()
+  href: api/CG.Blazor.Mvvm.Views.BlazorViewBase-1.html#CG_Blazor_Mvvm_Views_BlazorViewBase_1_Dispose
+  commentId: M:CG.Blazor.Mvvm.Views.BlazorViewBase`1.Dispose
+  fullName: CG.Blazor.Mvvm.Views.BlazorViewBase<T>.Dispose()
+  fullName.vb: CG.Blazor.Mvvm.Views.BlazorViewBase(Of T).Dispose()
+  nameWithType: BlazorViewBase<T>.Dispose()
+  nameWithType.vb: BlazorViewBase(Of T).Dispose()
+- uid: CG.Blazor.Mvvm.Views.BlazorViewBase`1.Dispose*
+  name: Dispose
+  href: api/CG.Blazor.Mvvm.Views.BlazorViewBase-1.html#CG_Blazor_Mvvm_Views_BlazorViewBase_1_Dispose_
+  commentId: Overload:CG.Blazor.Mvvm.Views.BlazorViewBase`1.Dispose
+  isSpec: "True"
+  fullName: CG.Blazor.Mvvm.Views.BlazorViewBase<T>.Dispose
+  fullName.vb: CG.Blazor.Mvvm.Views.BlazorViewBase(Of T).Dispose
+  nameWithType: BlazorViewBase<T>.Dispose
+  nameWithType.vb: BlazorViewBase(Of T).Dispose
+- uid: CG.Blazor.Mvvm.Views.BlazorViewBase`1.OnInitializedAsync
+  name: OnInitializedAsync()
+  href: api/CG.Blazor.Mvvm.Views.BlazorViewBase-1.html#CG_Blazor_Mvvm_Views_BlazorViewBase_1_OnInitializedAsync
+  commentId: M:CG.Blazor.Mvvm.Views.BlazorViewBase`1.OnInitializedAsync
+  fullName: CG.Blazor.Mvvm.Views.BlazorViewBase<T>.OnInitializedAsync()
+  fullName.vb: CG.Blazor.Mvvm.Views.BlazorViewBase(Of T).OnInitializedAsync()
+  nameWithType: BlazorViewBase<T>.OnInitializedAsync()
+  nameWithType.vb: BlazorViewBase(Of T).OnInitializedAsync()
+- uid: CG.Blazor.Mvvm.Views.BlazorViewBase`1.OnInitializedAsync*
+  name: OnInitializedAsync
+  href: api/CG.Blazor.Mvvm.Views.BlazorViewBase-1.html#CG_Blazor_Mvvm_Views_BlazorViewBase_1_OnInitializedAsync_
+  commentId: Overload:CG.Blazor.Mvvm.Views.BlazorViewBase`1.OnInitializedAsync
+  isSpec: "True"
+  fullName: CG.Blazor.Mvvm.Views.BlazorViewBase<T>.OnInitializedAsync
+  fullName.vb: CG.Blazor.Mvvm.Views.BlazorViewBase(Of T).OnInitializedAsync
+  nameWithType: BlazorViewBase<T>.OnInitializedAsync
+  nameWithType.vb: BlazorViewBase(Of T).OnInitializedAsync
+- uid: CG.Blazor.Mvvm.Views.BlazorViewBase`1.ViewModel
+  name: ViewModel
+  href: api/CG.Blazor.Mvvm.Views.BlazorViewBase-1.html#CG_Blazor_Mvvm_Views_BlazorViewBase_1_ViewModel
+  commentId: P:CG.Blazor.Mvvm.Views.BlazorViewBase`1.ViewModel
+  fullName: CG.Blazor.Mvvm.Views.BlazorViewBase<T>.ViewModel
+  fullName.vb: CG.Blazor.Mvvm.Views.BlazorViewBase(Of T).ViewModel
+  nameWithType: BlazorViewBase<T>.ViewModel
+  nameWithType.vb: BlazorViewBase(Of T).ViewModel
+- uid: CG.Blazor.Mvvm.Views.BlazorViewBase`1.ViewModel*
+  name: ViewModel
+  href: api/CG.Blazor.Mvvm.Views.BlazorViewBase-1.html#CG_Blazor_Mvvm_Views_BlazorViewBase_1_ViewModel_
+  commentId: Overload:CG.Blazor.Mvvm.Views.BlazorViewBase`1.ViewModel
+  isSpec: "True"
+  fullName: CG.Blazor.Mvvm.Views.BlazorViewBase<T>.ViewModel
+  fullName.vb: CG.Blazor.Mvvm.Views.BlazorViewBase(Of T).ViewModel
+  nameWithType: BlazorViewBase<T>.ViewModel
+  nameWithType.vb: BlazorViewBase(Of T).ViewModel
+- uid: Microsoft.Extensions.DependencyInjection
+  name: Microsoft.Extensions.DependencyInjection
+  href: api/Microsoft.Extensions.DependencyInjection.html
+  commentId: N:Microsoft.Extensions.DependencyInjection
+  fullName: Microsoft.Extensions.DependencyInjection
+  nameWithType: Microsoft.Extensions.DependencyInjection
+- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
+  name: ServiceCollectionExtensions
+  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html
+  commentId: T:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
+  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
+  nameWithType: ServiceCollectionExtensions
+- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddViewModels(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.DependencyInjection.ServiceLifetime,System.String,System.String)
+  name: AddViewModels(IServiceCollection, ServiceLifetime, String, String)
+  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddViewModels_Microsoft_Extensions_DependencyInjection_IServiceCollection_Microsoft_Extensions_DependencyInjection_ServiceLifetime_System_String_System_String_
+  commentId: M:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddViewModels(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.DependencyInjection.ServiceLifetime,System.String,System.String)
+  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddViewModels(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.DependencyInjection.ServiceLifetime, System.String, System.String)
+  nameWithType: ServiceCollectionExtensions.AddViewModels(IServiceCollection, ServiceLifetime, String, String)
+- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddViewModels*
+  name: AddViewModels
+  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddViewModels_
+  commentId: Overload:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddViewModels
+  isSpec: "True"
+  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddViewModels
+  nameWithType: ServiceCollectionExtensions.AddViewModels
