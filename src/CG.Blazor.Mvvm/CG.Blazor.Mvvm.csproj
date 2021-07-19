@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AddRazorSupportForMvc>true</AddRazorSupportForMvc>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Authors>Martin Cook</Authors>
+    <Company>CodeGator</Company>
+    <Description>This package contains server side Blazor MVVM extensions used by other CodeGator packages. 
+
+Platforms supported:
+    .NET 5.x or above</Description>
+    <Copyright>Copyright © 2018 - 2021 by CodeGator. All rights reserved.</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/CodeGator/CG.Blazor.Mvvm</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/CodeGator/CG.Blazor.Mvvm</RepositoryUrl>
+    <PackageIcon>packageDefaultIcon-50x50.png</PackageIcon>
+    <PackageIconUrl />
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>mvvm, view, view model, CG.Blazor.Mvvm, CodeGator</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CG.Mvvm" Version="2021.3.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\packageDefaultIcon-50x50.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+
+
+</Project>
