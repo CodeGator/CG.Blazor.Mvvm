@@ -17,7 +17,7 @@ The package contains server side Blazor MVVM extensions used by other CodeGator 
 * CG.Blazor.Mvvm.ViewModels.BlazorViewModelBase
 
 #### What platform(s) does it support?
-* .NET 5.x or higher
+* .NET 6.x or higher
 
 #### How do I install it?
 The binary is hosted on [NuGet](https://www.nuget.org/packages/CG.Blazor.Mvvm). To install the package using the NuGet package manager:

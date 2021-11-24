@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Razor">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <AddRazorSupportForMvc>true</AddRazorSupportForMvc>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
@@ -10,8 +10,8 @@
     <Description>This package contains server side Blazor MVVM extensions used by other CodeGator packages. 
 
 Platforms supported:
-    .NET 5.x or above</Description>
-    <Copyright>Copyright © 2018 - 2021 by CodeGator. All rights reserved.</Copyright>
+    .NET 6.x or above</Description>
+    <Copyright>Copyright © 2018 - 2022 by CodeGator. All rights reserved.</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/CodeGator/CG.Blazor.Mvvm</PackageProjectUrl>
     <RepositoryUrl>https://github.com/CodeGator/CG.Blazor.Mvvm</RepositoryUrl>
@@ -19,6 +19,8 @@ Platforms supported:
     <PackageIconUrl />
     <RepositoryType>git</RepositoryType>
     <PackageTags>mvvm, view, view model, CG.Blazor.Mvvm, CodeGator</PackageTags>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <DocumentationFile>bin/Debug/net6.0/CG.Blazor.Mvvm.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
@@ -26,8 +28,8 @@ Platforms supported:
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="CG.Mvvm" Version="2021.3.2" />
-    <PackageReference Include="Nerdbank.GitVersioning" Version="3.4.231">
+    <PackageReference Include="CG.Mvvm" Version="2022.1.1" />
+    <PackageReference Include="Nerdbank.GitVersioning" Version="3.4.244">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
